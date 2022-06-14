@@ -1,0 +1,32 @@
+
+.title{
+    color: blue;
+    text-transform: capitalize;
+    
+}
+.subtitle{
+    color: white;
+}
+
+.total-people{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+
+}
+
+.people-quantity{
+    color: white;
+}
+.tabla-gastos{
+    margin-top: 20px;
+    width: 100%;
+    th{
+        cursor: pointer;
+    }
+    .lista-item{
+        text-transform: uppercase;
+    }
+
+}

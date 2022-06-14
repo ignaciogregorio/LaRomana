@@ -1,0 +1,43 @@
+form{
+    text-align: center;
+
+    .input-style{
+        color: white;
+        margin-right: 20px;
+        text-align: center;
+    }
+}
+.boton-calculate{
+    display: flex;
+    justify-content: center;
+}
+
+.totalmoney{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 50px;
+    color: rgba(255, 255, 255, 0.455);
+
+
+}
+.table-container{
+    margin-top: 50px;
+    table{
+        color: rgba(255, 255, 255, 0.455);
+    
+        th{
+            background-color: rgba(69, 69, 125, 0.468);
+        }
+        td{
+            background-color: rgba(1, 1, 20, 0.468);
+            border-bottom: 1px solid white;
+            text-transform: capitalize;
+    
+        }
+    }
+}
+
+::placeholder{
+    color: white;
+}
