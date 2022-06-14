@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LaRomana/static/css/main.67ca5537.css",
+    "main.js": "/LaRomana/static/js/main.d53cb91e.js",
+    "index.html": "/LaRomana/index.html",
+    "main.67ca5537.css.map": "/LaRomana/static/css/main.67ca5537.css.map",
+    "main.d53cb91e.js.map": "/LaRomana/static/js/main.d53cb91e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ca5537.css",
+    "static/js/main.d53cb91e.js"
+  ]
+}
